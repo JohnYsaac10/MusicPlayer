@@ -1,4 +1,4 @@
-##MUSIC PLAYER APP JAVA
+## MUSIC PLAYER APP JAVA
 
 *mp3 music player developed in java*
 
